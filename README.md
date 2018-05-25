@@ -11,4 +11,4 @@ you can use database but it's just in android database
 if you wanna connection web browser or other use firebase !
 
 thank you 
-good luck
+good luck!!
